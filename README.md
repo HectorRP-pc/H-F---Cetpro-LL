@@ -12,7 +12,15 @@ Muchas gracias.
 
 
 
-Los archivos los van a encontrar subidos en MediaFire, Dropbox y Mega. 
+Los archivos los van a encontrar subidos en MediaFire.
 
 Podran instalar la ISO del Sistema y La carpeta Post-Install
+
+ISO
+https://www.mediafire.com/file/gvgh13zz49pyhgq/W10+CETPRO+LL.iso/file
+
+POST INSTALL
+https://www.mediafire.com/file/u0td0dmx40keind/Post_Install.zip/file
+
+
 
