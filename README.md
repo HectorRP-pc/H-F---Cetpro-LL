@@ -9,3 +9,10 @@ Aunque el trabajo es para exponerlo, esta disponible para cualquiera que lo quie
 Dado que es para un día, no se si hayan planes para continuarlo, así que disfrútenlo. 
 
 Muchas gracias.
+
+
+
+Los archivos los van a encontrar subidos en MediaFire, Dropbox y Mega. 
+
+Podran instalar la ISO del Sistema y La carpeta Post-Install
+
